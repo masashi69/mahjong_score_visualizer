@@ -1,0 +1,5 @@
+*.txt
+!requests.txt
+*.png
+*.csv
+__pycache__/
